@@ -15,6 +15,7 @@ public class Calculator {
         System.out.println("Calculator Menu\n---------------\n1. Addition\n2. Subtraction\n3. Multiplication\n4. Division");
         System.out.print("Which operation do you want to perform? ");
         int operator = scanner.nextInt();
+askdlfj;lkadsjfkl this is an edit for lab 6
 
         //compares input integer to each case so chosen operator can be done correctly
         switch(operator) {
